@@ -14,4 +14,3 @@
 
 @import VK_ios_sdk;
 @import SDWebImage;
-#import <SDWebImage/UIImageView+WebCache.h>
